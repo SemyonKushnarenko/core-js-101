@@ -34,5 +34,7 @@ node_modules
 .node_repl_history
 
 # Editors crap
-.vscode
 .idea
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
